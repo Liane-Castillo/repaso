@@ -1,0 +1,173 @@
+@import url('https://fonts.googleapis.com/css?family=Open+Sans:300,400,600,700,800');
+
+body{
+	font-family: 'Open Sans', sans-serif;
+	color: #333;
+	font-size: 14px;
+}
+
+#sec-rs{
+	background-color: #555;
+	color: #fff;
+	padding: 10px 0px;
+}
+
+#sec-rs .fab{
+	color: white;
+}
+
+#sec-rs .fab:hover{
+	color: aqua;
+}
+
+#great-template spam {
+	color: #E96A57;
+}
+
+#great-template button{
+	padding: 5px 60px;
+}
+
+#great-template{
+	background-image: url(../img/bg-hero.jpg);
+}
+
+#sec-gt{
+	margin-top: 70px;
+}
+
+#sec-2 img{
+	padding-top: 30px;
+}
+
+#sec-2 spam{
+	font-weight: 800;
+}
+
+#sec-2 a{
+	color: black;
+	font-weight: 700;
+}
+
+#sec-2{
+	padding-top: 10px;
+	padding-bottom: 10px;
+}
+
+#sec-3 spam{
+	font-weight: 800;
+}
+
+#sec-3 h5{
+	font-weight: 800;
+}
+
+#sec-3{
+	text-align: center;
+	margin-bottom: 50px;
+	margin-top: 40px;
+}
+
+#sec-3 p{
+	color: #3F3F3F;
+}
+
+#sec-4 spam{
+	font-weight: 800;
+}
+
+#sec-4{
+	margin-bottom: 50px;
+}
+
+#footer-1{
+	background-color: #232323;
+	color: white;
+	padding-bottom: 20px;
+}
+
+#footer-1 p{
+	font-size: 12px;
+	margin: 1px;
+}
+
+#footer-1 h3{
+	font-size: 16px;
+	font-weight: 800;
+	margin-bottom: 15px;
+}
+
+#footer-1 h4{
+	font-size: 12px;
+	font-weight: 800;
+}
+
+#footer-2{
+	background-color: #131313;
+	color: white;
+	font-size: 12px;
+}
+
+#footer-2 p{
+	padding: 20px 0px;
+}
+
+#sec-1-2 h1{
+	font-size: 30px;
+	font-weight: 700;
+	padding-bottom: 50px;
+}
+
+#sec-1-2 h2{
+	font-size: 20px;
+	font-weight: 600;
+}
+
+#sec-2-2 spam{
+	color: #E96A57;
+}
+
+#sec-2-2 h3{
+	font-weight: 700;
+	text-align: center;
+	font-size: 20px;
+}
+
+#sec-2-2{
+	text-align: center;
+	margin-bottom: 40px;
+	margin-top: 20px;
+}
+
+#sec-2-2 .fas{
+	border-radius: 100%;
+	width: 70px;
+	height: 70px;
+	line-height: 70px;
+	color: white;
+	margin-top: 20px;
+	font-size: 30px;
+}
+
+.azul{
+	background-color: #508FFF;
+}
+
+.verde{
+	background-color: #64FF6C;
+}
+
+.anaranjado{
+	background-color: #E96A57;
+}
+
+.amarillo{
+	background-color: #FFB04C;
+}
+
+.cuadro{
+	background-color: #ECECEC;
+	border: solid 1px #BFBFBF;
+	padding: 10px;
+	
+}
